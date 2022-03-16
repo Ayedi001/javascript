@@ -1,0 +1,40 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+body { 
+   
+    place-items: center; 
+    text-align: center;
+}
+.button{
+    
+    display: grid;
+    
+
+}
+.a{
+    background-color:transparent;
+    border: 2px solid;
+    font-size: 10px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5%;
+    margin: 10px;
+    letter-spacing:2px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+
+
+}
+.b{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing:3px;
+    font-weight: 400;
+
+}
+.span{
+    font-size: 100px;
+    color: red;
+
+}

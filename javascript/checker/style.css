@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+}
+.g1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.g2{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+
+    
+}
+#increment-btn{
+    padding:10px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    left:43%;
+    
+}
+#save-btn{
+    padding:10px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    left:43%;
+    
+}
